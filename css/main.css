@@ -360,6 +360,14 @@ body {
   background-color: #27368d;
 }
 
+.project__img--5 {
+  background-color: #A9A32A;
+}
+
+.project__img--6 {
+  background-color: #ff9900;
+}
+
 .project__title {
   padding: 15px 20px 25px;
   font-weight: 700;
