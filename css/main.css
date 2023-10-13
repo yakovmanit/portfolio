@@ -388,12 +388,13 @@ body {
 .project__img--11 {
   background-color: #cdaa7d;
 }
-.project__img--11 {
-  background-color: #cdaa7d; 
-}
 
 .project__img--gidrotsikly {
   background-color: #1C62CD;
+}
+
+.project__img--delote {
+  background-color: #cdaa7d; 
 }
 
 .project__title {
