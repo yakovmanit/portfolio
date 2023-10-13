@@ -385,10 +385,6 @@ body {
   background-color: #c70101;
 }
 
-.project__img--11 {
-  background-color: #cdaa7d;
-}
-
 .project__img--gidrotsikly {
   background-color: #1C62CD;
 }
@@ -574,31 +570,4 @@ body {
 
 .gidrotsikly {
   margin-bottom: 90px;
-}
-
-
-
-
-
-@media only screen and (max-width: 768px) {
-  .projects {
-    grid-template-columns: repeat(2, 1fr);
-    gap: 15px;
-  }
-
-  .project__title {
-    padding: 10px 15px 10px;
-    font-size: 20px;
-  }
-
-  .project__img {
-    border-radius: 7px 7px 0 0;
-    padding: 5px;
-  }
-}
-
-@media only screen and (max-width: 425px) {
-  .projects {
-    gap: 10px;
-  }
 }
