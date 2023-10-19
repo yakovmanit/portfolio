@@ -397,6 +397,10 @@ body {
   background-color: #cdaa7d; 
 }
 
+.project__img--manhattan {
+  background-color: #D5621D; 
+}
+
 .project__title {
   padding: 15px 20px 25px;
   font-weight: 700;
